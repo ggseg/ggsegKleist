@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+pkgdown
+data-raw
+README*
+**.DS_Store
+^\.github$
