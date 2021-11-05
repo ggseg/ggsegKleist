@@ -7,7 +7,7 @@ Authors@R: c(person("Athanasia Mo", "Mowinckel",
                     comment = c(ORCID = "0000-0002-5756-0223")))
 Description: This is a support package for the ggseg, and ggseg3d packages.
     It contains the historical Kleist atlases to plot using functions from those two packages.
-License: MIT + file LICENSE
+License: CC BY 4.0
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 Depends: 

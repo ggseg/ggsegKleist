@@ -3,5 +3,5 @@
 pkgdown
 data-raw
 README*
-**.DS_Store
 ^\.github$
+^LICENSE\.md$
