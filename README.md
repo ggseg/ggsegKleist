@@ -7,7 +7,6 @@
 
 [![R-CMD-check](https://github.com/ggseg/ggsegKleist/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegKleist/actions)
 [![DOI](https://zenodo.org/badge/425006974.svg)](https://zenodo.org/badge/latestdoi/425006974)
-
 <!-- badges: end -->
 
 This package contains dataset for plotting the Kleist 1934 historical
